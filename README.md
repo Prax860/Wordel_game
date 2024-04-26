@@ -1,4 +1,4 @@
-# Wordel_game
+### Wordel_game
 Just a game.
 
  ##   1) A random 5-letter word is selected by the computer. The objective of the game is to guess the word within 6 moves.
